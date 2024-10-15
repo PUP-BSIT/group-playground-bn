@@ -24,8 +24,20 @@ match choice:
             print("Even number.")
 
     case "3":
-        # TODO (Delima): Do item 3.
-        pass
+        # (Delima): Write a program that takes 3 numbers and prints the highest number.
+        num_1 = int(input("Enter first number: "))
+        num_2 = int(input("Enter second number: "))
+        num_3 = int(input("Enter third number: "))
+
+        if num_1 > num_2:
+            if num_1 > num_3:
+                print(f"{num_1} is the largest number.")
+            else:
+                print(f"{num_3} is the largest number.")
+        elif num_2 > num_3:
+            print(f"{num_2} is the largest number.")
+        else:
+            print(f"{num_3} is the largest number.")
 
     case "4":
         # TODO (Quiambao): Do item 4.
