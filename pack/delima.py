@@ -1,5 +1,5 @@
-from random_username.generate import random_username
+from random_username.generate import generate_username
 
 def get_username():
-    username = random_username(1)
+    username = generate_username(1)
     print(username)
