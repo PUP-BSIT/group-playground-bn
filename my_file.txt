@@ -1,1 +1,2 @@
-Apple is a fruit
+Apple is a fruit.
+Flower is a plant.
