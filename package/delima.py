@@ -11,7 +11,7 @@ while user_choice != 4:
             print('Current Education: Polytechnic of the Philippines-Taguig')
         case 2: # Goal
             print('Goal: To have a stable life.')
-        case 3: # Comments
+        case 3: # Comments: Hi
             print('Comment - Name')
             # TODO Ynion
             # TODO Patricia Joy
