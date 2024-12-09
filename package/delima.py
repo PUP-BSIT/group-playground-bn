@@ -18,5 +18,5 @@ while user_choice != 4:
             # TODO Patricia Anne
             # TODO Kath
         case 4: # Exit
-            print('Goodbye bading.')
+            print('Goodbye')
     
