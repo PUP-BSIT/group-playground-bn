@@ -12,7 +12,7 @@ while user_choice != 4:
         case 2: # Goal
             print('Goal: To have a stable life.')
         case 3: # Comments
-            print('Comment mo bading - Name')
+            print('Comment mo - Name')
             # TODO Ynion
             # TODO Patricia Joy
             # TODO Patricia Anne
