@@ -1,6 +1,6 @@
 def display_menu():
     while True:
-        print("\nGreetings! My names is Ma. Bea Mae Ynion")
+        print("\Hello! My names is Ma. Bea Mae Ynion")
         print("1. Basic Info")
         print("2. Goals")
         print("3. Comments")
